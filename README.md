@@ -20,13 +20,13 @@
 ### Linux (Ubuntu / Debian / CentOS / Rocky / Fedora / Arch)
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/yourname/hosting-installer/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Phechr-2025/hosting-installer/main/install.sh)
 ```
 
 หรือใช้ `wget`:
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/yourname/hosting-installer/main/install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Phechr-2025/hosting-installer/main/install.sh)
 ```
 
 ### Windows (PowerShell Administrator)
