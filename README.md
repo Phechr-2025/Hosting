@@ -1,6 +1,6 @@
-# 🌐 Web Hosting Installer (3x-ui Style)
+# 🌐 Web Hosting Installer 
 
-ระบบติดตั้ง Web Hosting แบบ **One-Command** สไตล์ 3x-ui รองรับทุกอุปกรณ์
+ระบบติดตั้ง Web Hosting รองรับทุกอุปกรณ์
 
 ## ✨ ฟีเจอร์หลัก
 
